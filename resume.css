@@ -21,6 +21,7 @@ body {
             justify-content: space-evenly;
             padding: 1em;
             color: whitesmoke;
+	    width: auto;
         }
 
         li {
