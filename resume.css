@@ -16,7 +16,6 @@ body {
         }
 
         .personal {
-            border: 2px solid whitesmoke;
             display: flex;
             font-size: x-large;
             justify-content: space-evenly;
